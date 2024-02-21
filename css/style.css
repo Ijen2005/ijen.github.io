@@ -15,7 +15,7 @@ body, html {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url("mata.jpeg");
+    background-image: url("image/mata.jpeg");
     background-size: cover;
     background-position: center;
     transform: translateZ(0);
@@ -28,7 +28,7 @@ body, html {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url('mata.jpeg'); 
+    background-image: url('image/mata.jpeg'); 
     background-size: cover;
     background-position: center;
     transform: translateZ(0);
